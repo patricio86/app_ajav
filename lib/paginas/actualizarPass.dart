@@ -1,5 +1,3 @@
-// ignore: file_names
-import 'package:app_ajav/paginas/perfil.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_database/firebase_database.dart';
 
