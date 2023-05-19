@@ -15,6 +15,7 @@ class ActualizarPass extends StatefulWidget {
 
 class ActualizarPassState extends State<ActualizarPass>{
 
+// ignore: unused_field
 final _formKey = GlobalKey<FormState>();
 final ButtonStyle raisedButtonStyle = ElevatedButton.styleFrom(
     foregroundColor: Colors.white, backgroundColor: const Color.fromARGB(255, 94, 18, 12),
